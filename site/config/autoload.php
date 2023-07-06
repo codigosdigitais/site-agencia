@@ -106,7 +106,7 @@ $autoload['packages'] = array();
 
 
 // database removido
-$autoload['libraries'] = array('session', 'FirePHP', 'cart');
+$autoload['libraries'] = array('FirePHP', 'cart');
 
 
 
