@@ -64,9 +64,9 @@ if(($ip <= $ipHigh && $ipLow <= $ip) ||  in_array($_SERVER['SERVER_ADDR'], $loca
 //echo $active_group;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'codigosd_site';
-$db['default']['password'] = 'm$pJbcRdeg!1';
-$db['default']['database'] = 'codigosd_site';
+$db['default']['username'] = 'codigosdigitais_site';
+$db['default']['password'] = 'codigosdigitais_site';
+$db['default']['database'] = 'codigosdigitais_site';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
