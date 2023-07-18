@@ -95,25 +95,25 @@
       <div class="range range-xs-center range-30">
          <div class="cell-xs-5 cell-md-2">
             <div class="counter-wrap">
-               <div class="heading-1"><span class="counter" data-step="3000">20</span></div>
+               <div class="heading-1"><span class="counter" data-step="3000">22</span></div>
                <p class="small">ANOS DE EXPERIÊNCIA</p>
             </div>
          </div>
          <div class="cell-xs-5 cell-md-2">
             <div class="counter-wrap">
-               <div class="heading-1"><span class="counter" data-speed="2500">622</span></div>
+               <div class="heading-1"><span class="counter" data-speed="2500">728</span></div>
                <p class="small">CASES DE SUCESSO</p>
             </div>
          </div>
          <div class="cell-xs-5 cell-md-2">
             <div class="counter-wrap">
-               <div class="heading-1"><span class="counter" data-step="1500">15</span></div>
+               <div class="heading-1"><span class="counter" data-step="1500">12</span></div>
                <p class="small">PROJETOS EM ANDAMENTO</p>
             </div>
          </div>
          <div class="cell-xs-5 cell-md-2">
             <div class="counter-wrap">
-               <div class="heading-1"><span class="counter-preffix"></span><span class="counter" data-speed="1300">16895</span></div>
+               <div class="heading-1"><span class="counter-preffix"></span><span class="counter" data-speed="1300">26845</span></div>
                <p class="small">XÍCARAS DE CAFÉ</p>
             </div>
          </div>
