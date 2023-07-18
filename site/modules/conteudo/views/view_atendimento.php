@@ -16,7 +16,7 @@
 <section class="section section-lg bg-white">
    <div class="shell">
       <div class="range range-md-middle range-30">
-         <div class="cell-md-6"><img src="<?php echo base_url('site/assets'); ?>/images/conteudo/atendimento-01-803x458.jpg" alt="" width="803" height="458"/>
+         <div class="cell-md-6"><img src="<?php echo base_url('site/assets'); ?>/images/conteudo/atendimento-01-803x458.jpg" alt="" width="803" height="458" />
          </div>
          <div class="cell-md-4">
             <h2 class="heading-with-aside-divider"><span style="max-width: 380px">Códigos Digitais</span><span class="divider"></span></h2>
@@ -106,7 +106,7 @@
                      <p>Envie um WhatsApp para</p>
                      <div class="unit unit-spacing-xs unit-horizontal unit-custom unit-middle">
                         <div class="unit-left"><span class="icon icon-md-big mdi-whatsapp"></span></div>
-                        <div class="unit-body"><a class="link-gray-darker" href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Preciso de Atendimento." target="_blank">+55 45 99924-4900</a></div>
+                        <div class="unit-body"><a class="link-gray-darker" href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Preciso de Atendimento." target="_blank">+55 41 99803-6863</a></div>
                      </div>
                   </div>
                </div>

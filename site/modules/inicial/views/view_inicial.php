@@ -1,4 +1,3 @@
-
 <section class="swiper-modern section section-full-width">
    <div class="swiper-container swiper-slider" data-clickable="true" data-slide-effect="fade" data-autoplay="4000" data-simulate-touch="false">
       <div class="swiper-wrapper">
@@ -8,7 +7,7 @@
                   <div class="shell">
                      <p class="heading-4 heading-divider-modern" data-caption-animate="fadeInUp" data-caption-delay="250" style="font-weight: 400">Quer um resultado diferente?</p>
                      <h1 data-caption-animate="fadeInUp" data-caption-delay="100">Para resultados diferentes <br>Faça diferente. </h1>
-                     <a class="button button-secondary-1 button-effect-ujarak" href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento." data-caption-animate="fadeInUp" data-caption-delay="450">Contrate</a>
+                     <a class="button button-secondary-1 button-effect-ujarak" href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento." data-caption-animate="fadeInUp" data-caption-delay="450">Contrate</a>
                   </div>
                </div>
             </div>
@@ -141,49 +140,49 @@
             <div class="owl-carousel" data-items="1" data-sm-items="3" data-md-items="3" data-lg-items="4" data-stage-padding="0" data-loop="true" data-autoplay="true" data-margin="30" data-mouse-drag="false" data-nav-custom="#owl-carousel-nav">
                <div class="item wow fadeInUp" data-wow-delay=".4s">
                   <div class="vip">
-                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-marketing-digital-268x216.jpg" alt="" width="268" height="216"/>
+                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-marketing-digital-268x216.jpg" alt="" width="268" height="216" />
                      </div>
                      <div class="vip-content">
-                        <h5><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Marketing Digital" target="_blank">Marketing Digital</a></h5>
+                        <h5><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Marketing Digital" target="_blank">Marketing Digital</a></h5>
                         <div class="vip-cite"><span>Soluções de Publicidade na Web, Gerenciamento de Redes Sociais, Google Ads, Inbound Marketing e E-mail Marketing</span></div>
                         <div class="vip-divider"></div>
-                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Marketing Digital" target="_blank">Converse Conosco</a></div>
+                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Marketing Digital" target="_blank">Converse Conosco</a></div>
                      </div>
                   </div>
                </div>
                <div class="item wow fadeInUp" data-wow-delay=".6s">
                   <div class="vip">
-                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-desenvolvimento-de-sites-268x216.jpg" alt="" width="268" height="216"/>
+                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-desenvolvimento-de-sites-268x216.jpg" alt="" width="268" height="216" />
                      </div>
                      <div class="vip-content">
-                        <h5><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Desenvolvimento de Sites" target="_blank">Desenvolvimento de Sites</a></h5>
+                        <h5><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Desenvolvimento de Sites" target="_blank">Desenvolvimento de Sites</a></h5>
                         <div class="vip-cite"><span>Trabalhamos com design UI, Sites Institucionais, Lojas Virtuais, Hotsites, Desenvolvimento web e Integração com meios de Pagamentos online (Cielo, Rede, Pagar.me, Pagseguro, e Safra Pay.</span></div>
                         <div class="vip-divider"></div>
-                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Desenvolvimento de Sites" target="_blank">Converse Conosco</a></div>
+                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Desenvolvimento de Sites" target="_blank">Converse Conosco</a></div>
                      </div>
                   </div>
                </div>
                <div class="item wow fadeInUp" data-wow-delay=".8s">
                   <div class="vip">
-                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-desenvolvimento-de-sistemas-268x216.jpg" alt="" width="268" height="216"/>
+                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-desenvolvimento-de-sistemas-268x216.jpg" alt="" width="268" height="216" />
                      </div>
                      <div class="vip-content">
-                        <h5><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento." target="_blank">Desenvolvimento de Sistemas</a></h5>
+                        <h5><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento." target="_blank">Desenvolvimento de Sistemas</a></h5>
                         <div class="vip-cite"><span>Sistemas Administrativos integrados ao sistema empresarial, trabalhando toda parte corporativa da empresa, administrando de forma rápida, fácil e segura, integração com meios de pagamentos. </span></div>
                         <div class="vip-divider"></div>
-                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Desenvolvimento de Sistemas" target="_blank">Converse Conosco</a></div>
+                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Desenvolvimento de Sistemas" target="_blank">Converse Conosco</a></div>
                      </div>
                   </div>
                </div>
                <div class="item wow fadeInUp" data-wow-delay="1s">
                   <div class="vip">
-                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-suporte-digital-268x216.jpg" alt="" width="268" height="216"/>
+                     <div class="vip-image-block"><img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-suporte-digital-268x216.jpg" alt="" width="268" height="216" />
                      </div>
                      <div class="vip-content">
-                        <h5><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Suporte Digital" target="_blank">Suporte Digital</a></h5>
+                        <h5><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Suporte Digital" target="_blank">Suporte Digital</a></h5>
                         <div class="vip-cite"><span>Pacotes de Hospedagem, Manutenção, Atualização e Gerenciamento de E-mail e sites.</span></div>
                         <div class="vip-divider"></div>
-                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Suporte Digital" target="_blank">Converse Conosco</a></div>
+                        <div class="vip-link"><span class="icon icon-md icon-vip mdi-whatsapp"></span><a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Suporte Digital" target="_blank">Converse Conosco</a></div>
                      </div>
                   </div>
                </div>
@@ -191,9 +190,9 @@
          </div>
          <div class="cell-lg-2 wow fadeIn" data-wow-delay="1.2s">
             <div class="demo-image-block">
-               <a class="demo-image-block-link" href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Quero falar de negócio." target="_blank">
-                  <img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-solicitar-orcamento-268x687.jpg" alt="" width="268" height="687"/>
-                  <div class="demo-image-block-link-text"><span class="heading-4">Vamos falar de negócio?</span><span>Envie um WhatsApp para +55 45 99924-4900</span></div>
+               <a class="demo-image-block-link" href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Quero falar de negócio." target="_blank">
+                  <img src="<?php echo base_url('site'); ?>/assets/images/conteudo/agencia-solicitar-orcamento-268x687.jpg" alt="" width="268" height="687" />
+                  <div class="demo-image-block-link-text"><span class="heading-4">Vamos falar de negócio?</span><span>Envie um WhatsApp para +55 41 99803-6863</span></div>
                </a>
             </div>
          </div>

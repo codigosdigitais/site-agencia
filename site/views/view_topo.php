@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <meta name="description" content="<?php echo $description; ?>">
-    <meta name="keywords" content="site, desenvolvimento, websites, publicidade, propaganda, curitiba, agencia digital, agencia em curitiba, digital em curitiba, sites em curitiba, empresa curitiba, sites, curitiba">
+    <meta name="keywords" content="site, desenvolvimento, websites, publicidade, propaganda, itapema, agencia digital, agencia em itapema, digital em itapema, sites em itapema, empresa itapema, sites, itapema">
     <meta name="author" content="Códigos Digitais - André Baill">
 
     <meta property="og:locale" content="pt_BR" />
@@ -18,11 +18,11 @@
     <meta property="og:title" content="Inicial - Códigos Digitais | Agência Digital" />
     <meta property="og:description" content="Códigos Digitais: Inbound Marketing, Web Design, Criação de Sites, Mídias Sociais, SEO e Links Patrocinados. Solicite uma proposta." />
     <meta property="og:url" content="https://www.codigosdigitais.com.br/" />
-    <meta property="og:site_name" content="Códigos Digitais | Agência Digital" />    
+    <meta property="og:site_name" content="Códigos Digitais | Agência Digital" />
 
     <script src="<?php echo base_url('site/assets'); ?>/js/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script>
     <link rel="icon" href="<?php echo base_url('site/assets'); ?>/images/favicon.ico" type="image/x-icon">
-    
+
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,700%7CUbuntu:400,500,700">
     <link rel="stylesheet" href="<?php echo base_url('site/assets'); ?>/css/bootstrap.css">
@@ -57,15 +57,15 @@
                             <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                             <!-- RD Navbar Brand-->
                             <div class="rd-navbar-brand">
-                                <a class="brand-name" href="<?php echo base_url(''); ?>"><img src="<?php echo base_url('site/assets'); ?>/images/brand-default-176x47.png" alt="" width="275"/></a>
+                                <a class="brand-name" href="<?php echo base_url(''); ?>"><img src="<?php echo base_url('site/assets'); ?>/images/brand-default-176x47.png" alt="" width="275" /></a>
                             </div>
                         </div>
                         <div class="rd-navbar-aside-right">
                             <div class="rd-navbar-nav-wrap">
                                 <!-- RD Navbar Nav-->
                                 <ul class="rd-navbar-nav menu-menu">
-                                    <li><a href="<?php echo base_url(''); ?>">Home</a></li>                              
-                                    <li><a href="<?php echo base_url('a-agencia'); ?>">A Agência</a></li>                              
+                                    <li><a href="<?php echo base_url(''); ?>">Home</a></li>
+                                    <li><a href="<?php echo base_url('a-agencia'); ?>">A Agência</a></li>
 
                                     <li><a href="javascript:void(0)">Soluções</a>
                                         <ul class="rd-navbar-dropdown">
@@ -75,7 +75,7 @@
                                             <li><a href="<?php echo base_url('inbound-marketing'); ?>">Inbound Marketing</a></li>
                                             <li><a href="<?php echo base_url('marketing-digital'); ?>">Marketing Digital</a></li>
                                         </ul>
-                                    </li>  
+                                    </li>
 
                                     <li><a href="<?php echo base_url('porque-nos-contratar'); ?>">Porque nos contratar?</a></li>
                                     <li><a href="<?php echo base_url('atendimento'); ?>">Atendimento</a></li>
@@ -83,7 +83,7 @@
                             </div>
                         </div>
                         <div class="rd-navbar-search">
-                            <a href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da Agência e preciso de um orçamento. Ref: Área Principal " target="_blank"><i class="mdi mdi-whatsapp icone-whatsapp"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da Agência e preciso de um orçamento. Ref: Área Principal " target="_blank"><i class="mdi mdi-whatsapp icone-whatsapp"></i></a>
                         </div>
                     </div>
                 </nav>

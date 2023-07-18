@@ -1,16 +1,16 @@
 <section class="section section-breadcrumb">
-    <div class="parallax-container breadcrumb-wrapper" data-parallax-img="<?php echo base_url('site/assets'); ?>/images/conteudo/porque-nos-contratar.jpg">
-        <div class="parallax-content section-lg context-dark">
-            <div class="shell context-dark">
-                <h2>Porque contratar a Códigos Digitais?</h2>
-                <div class="divider"></div>
-            </div>
-        </div>
-    </div>
-    <ul class="breadcrumb-custom">
-        <li><a href="./">Home</a></li>
-        <li>Bons motivos para nos contratar</li>
-    </ul>
+   <div class="parallax-container breadcrumb-wrapper" data-parallax-img="<?php echo base_url('site/assets'); ?>/images/conteudo/porque-nos-contratar.jpg">
+      <div class="parallax-content section-lg context-dark">
+         <div class="shell context-dark">
+            <h2>Porque contratar a Códigos Digitais?</h2>
+            <div class="divider"></div>
+         </div>
+      </div>
+   </div>
+   <ul class="breadcrumb-custom">
+      <li><a href="./">Home</a></li>
+      <li>Bons motivos para nos contratar</li>
+   </ul>
 </section>
 
 <section class="section section-lg bg-white text-left">
@@ -42,64 +42,64 @@
             </div>
 
             <div class="range range-30">
-                <div class="cell-lg-10">
-                    <div class="about-out">
-                       <div class="about-out-item wow fadeIn" data-wow-delay=".4s">
-                          <div class="about-out-item-inner">
-                             <div>
-                                <span class="icon icon-xl icon-primary linearicons-hourglass"></span>
-                                <h4>Entregas no prazo acordado</h4>
-                             </div>
-                             <span class="about-out-item-inner-decor"></span>
-                          </div>
-                       </div>
-                       <div class="about-out-item wow fadeIn" data-wow-delay=".5s">
-                          <div class="about-out-item-inner">
-                             <div>
-                                <span class="icon icon-xl icon-primary linearicons-smile"></span>
-                                <h4>Segurança financeira, com orçamento previamente definido e sem extrapolar o previsto</h4>
-                             </div>
-                             <span class="about-out-item-inner-decor"></span>
-                          </div>
-                       </div>
-                       <div class="about-out-item wow fadeIn" data-wow-delay=".6s">
-                          <div class="about-out-item-inner">
-                             <div>
-                                <span class="icon icon-xl icon-primary linearicons-heart"></span>
-                                <h4>Qualidade do produto, com muitos testes antes da liberação do produto para usuários finais</h4>
-                             </div>
-                             <span class="about-out-item-inner-decor"></span>
-                          </div>
-                       </div>
-                       <div class="about-out-item wow fadeIn" data-wow-delay=".7s">
-                          <div class="about-out-item-inner">
-                             <div>
-                                <span class="icon icon-xl icon-primary linearicons-laptop-phone"></span>
-                                <h4>Produto aderente às necessidades dos usuários</h4>
-                             </div>
-                             <span class="about-out-item-inner-decor"></span>
-                          </div>
-                       </div>
-                       <div class="about-out-item wow fadeIn" data-wow-delay=".6s">
-                          <div class="about-out-item-inner">
-                             <div>
-                                <span class="icon icon-xl icon-primary linearicons-chart-bars"></span>
-                                <h4>Indicadores que comprovam a utilização das melhores práticas e também os melhores resultados</h4>
-                             </div>
-                             <span class="about-out-item-inner-decor"></span>
-                          </div>
-                       </div>
-                       <div class="about-out-item wow fadeIn" data-wow-delay=".7s">
-                          <div class="about-out-item-inner">
-                             <div>
-                                <span class="icon icon-xl icon-primary linearicons-graduation-hat"></span>
-                                <h4>Repasse do conhecimento para o time do cliente, como práticas de gestão, produtividade, metodologias de trabalho</h4>
-                             </div>
-                             <span class="about-out-item-inner-decor"></span>
-                          </div>
-                       </div>                       
-                    </div>
-                </div>
+               <div class="cell-lg-10">
+                  <div class="about-out">
+                     <div class="about-out-item wow fadeIn" data-wow-delay=".4s">
+                        <div class="about-out-item-inner">
+                           <div>
+                              <span class="icon icon-xl icon-primary linearicons-hourglass"></span>
+                              <h4>Entregas no prazo acordado</h4>
+                           </div>
+                           <span class="about-out-item-inner-decor"></span>
+                        </div>
+                     </div>
+                     <div class="about-out-item wow fadeIn" data-wow-delay=".5s">
+                        <div class="about-out-item-inner">
+                           <div>
+                              <span class="icon icon-xl icon-primary linearicons-smile"></span>
+                              <h4>Segurança financeira, com orçamento previamente definido e sem extrapolar o previsto</h4>
+                           </div>
+                           <span class="about-out-item-inner-decor"></span>
+                        </div>
+                     </div>
+                     <div class="about-out-item wow fadeIn" data-wow-delay=".6s">
+                        <div class="about-out-item-inner">
+                           <div>
+                              <span class="icon icon-xl icon-primary linearicons-heart"></span>
+                              <h4>Qualidade do produto, com muitos testes antes da liberação do produto para usuários finais</h4>
+                           </div>
+                           <span class="about-out-item-inner-decor"></span>
+                        </div>
+                     </div>
+                     <div class="about-out-item wow fadeIn" data-wow-delay=".7s">
+                        <div class="about-out-item-inner">
+                           <div>
+                              <span class="icon icon-xl icon-primary linearicons-laptop-phone"></span>
+                              <h4>Produto aderente às necessidades dos usuários</h4>
+                           </div>
+                           <span class="about-out-item-inner-decor"></span>
+                        </div>
+                     </div>
+                     <div class="about-out-item wow fadeIn" data-wow-delay=".6s">
+                        <div class="about-out-item-inner">
+                           <div>
+                              <span class="icon icon-xl icon-primary linearicons-chart-bars"></span>
+                              <h4>Indicadores que comprovam a utilização das melhores práticas e também os melhores resultados</h4>
+                           </div>
+                           <span class="about-out-item-inner-decor"></span>
+                        </div>
+                     </div>
+                     <div class="about-out-item wow fadeIn" data-wow-delay=".7s">
+                        <div class="about-out-item-inner">
+                           <div>
+                              <span class="icon icon-xl icon-primary linearicons-graduation-hat"></span>
+                              <h4>Repasse do conhecimento para o time do cliente, como práticas de gestão, produtividade, metodologias de trabalho</h4>
+                           </div>
+                           <span class="about-out-item-inner-decor"></span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
 
             <div class="object-lg">
@@ -108,8 +108,8 @@
 
                   <p class="text-justify" style="font-size: 18px !important;">Está interessado em contratar uma agência full-service e implementar as estratégias de comunicação no seu negócio? Entre já em contato com a gente! Somos uma agência full-service e possuímos parcerias com grandes empresas do mercado, e nossa equipe está pronta para oferecer a você a melhor solução.</p>
                </div>
-            </div>            
-         
+            </div>
+
             <div class="form-block block-fix-height" style="margin-top: 36px !important;">
                <h3 class="text-spacing-0">Pronto para fazer sua empresa crescer?</h3>
                <p class="text-spacing-50">Fale conosco e saiba como nós pode ajudar a impulsionar sua empresa.</p>
@@ -174,11 +174,11 @@
                <div class="aside-info-item context-dark">
                   <h4>Soluções</h4>
                   <ul>
-                    <li><a href="<?php echo base_url('marketing-digital'); ?>">Marketing Digital</a></li>
-                    <li><a href="<?php echo base_url('inbound-marketing'); ?>">Inbound Marketing</a></li>
-                    <li><a href="<?php echo base_url('desenvolvimento-de-sites'); ?>">Desenvolvimento de Sites</a></li>
-                    <li><a href="<?php echo base_url('desenvolvimento-de-sistemas'); ?>">Desenvolvimento de Sistemas</a></li>
-                    <li><a href="<?php echo base_url('desenvolvimento-app'); ?>">Desenvolvimento de Aplicativos</a></li>
+                     <li><a href="<?php echo base_url('marketing-digital'); ?>">Marketing Digital</a></li>
+                     <li><a href="<?php echo base_url('inbound-marketing'); ?>">Inbound Marketing</a></li>
+                     <li><a href="<?php echo base_url('desenvolvimento-de-sites'); ?>">Desenvolvimento de Sites</a></li>
+                     <li><a href="<?php echo base_url('desenvolvimento-de-sistemas'); ?>">Desenvolvimento de Sistemas</a></li>
+                     <li><a href="<?php echo base_url('desenvolvimento-app'); ?>">Desenvolvimento de Aplicativos</a></li>
                   </ul>
                </div>
 
@@ -188,7 +188,7 @@
                      <p>Envie um WhatsApp para</p>
                      <div class="unit unit-spacing-xs unit-horizontal unit-custom unit-middle">
                         <div class="unit-left"><span class="icon icon-md-big mdi-whatsapp"></span></div>
-                        <div class="unit-body"><a class="link-gray-darker" href="https://api.whatsapp.com/send?phone=5545999244900&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Porque nos contratar?" target="_blank">+55 45 99924-4900</a></div>
+                        <div class="unit-body"><a class="link-gray-darker" href="https://api.whatsapp.com/send?phone=5541998036863&text=Oi. Entrei no site da agência e preciso de um orçamento. Ref: Porque nos contratar?" target="_blank">+55 41 99803-6863</a></div>
                      </div>
                   </div>
                </div>
@@ -198,4 +198,3 @@
 
    </div>
 </section>
-
